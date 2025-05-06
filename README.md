@@ -40,6 +40,10 @@ To deploy the portfolio, you can use any hosting platform that supports static w
 
 Follow the deployment instructions provided by your chosen platform to publish your portfolio online.
 
+## Live Demo
+
+[click demo] (https://aditya-saputra.vercel.app/)
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request to the repository.
