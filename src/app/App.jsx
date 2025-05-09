@@ -197,7 +197,7 @@ function App() {
 					<p>A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product</p>
 					<a
 						href={cv}
-						download="cv-PDF-document"
+						download="CV - ADITYA SAPUTRA - SOFTWARE DEVELOPER"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
